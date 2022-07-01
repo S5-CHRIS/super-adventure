@@ -1,11 +1,9 @@
 ---
 name: New content suggestion
-about: Use this template to suggest new larger areas of work that you think the MDN
-  writers should work on
-title: 'Content suggestion: <TITLE OF SUGGESTION>'
-labels: ''
-assignees: ''
-
+about: "Use this template to suggest new larger areas of work that you think the MDN writers should work on"
+labels: "Opportunity assessment"
+assignees: chrisdavidmills
+title: "Content suggestion: <TITLE OF SUGGESTION>"
 ---
 
 ## What is the new suggestion?
